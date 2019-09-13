@@ -13,7 +13,7 @@ i = 0       # counter
 requestlist = []    # list for storing each call from the api (500 tweets at a time)
 
 # search Criteria
-SEARCH_TERM = '#quackbusters OR #banting OR #lchf OR #cherrypick OR #anecdote OR #I\'mwithTim'
+SEARCH_TERM = ''
 PRODUCT = 'fullarchive'
 LABEL = 'Research'
 
